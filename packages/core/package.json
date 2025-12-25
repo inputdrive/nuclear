@@ -19,7 +19,7 @@
     "coverage": "jest --silent --coverage"
   },
   "dependencies": {
-    "@babel/core": "7.26.7",
+    "@babel/core": "7.28.5",
     "@babel/preset-env": "7.26.7",
     "@babel/preset-react": "7.26.3",
     "@distube/ytpl": "^1.2.1",
