@@ -30,7 +30,7 @@
     "@nuclearplayer/ytdl-core": "4.16.13",
     "@supabase/supabase-js": "^1.35.4",
     "ajv": "^6.12.5",
-    "bandcamp-scraper": "1.4.1",
+    "bandcamp-scraper": "1.5.0",
     "cheerio": "^1.0.0",
     "deezer-public-api": "^1.0.4",
     "electron-store": "8.2.0",
